@@ -1,6 +1,9 @@
 # Docker demo
 Docker demo files can be found and adapted from https://github.com/wardviaene/docker-demo
 ```
+sudo dockerd
+
+
 cd into the directory
 
 docker build .
